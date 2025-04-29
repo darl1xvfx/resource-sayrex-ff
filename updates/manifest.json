@@ -1,6 +1,7 @@
 [
-    /*{
+    {
         "version": "1.0",
         "download_url": "https://github.com/darl1xvfx/resource-sayrex-ff/raw/main/releases/SayrexFF_v1.1.exe",
-    }*/
+        "update": false,
+    }
 ]
