@@ -1,5 +1,3 @@
-[
-    {
-        "is_login_enabled": true
-    }
-]
+{
+    "is_login_enabled": true
+}
