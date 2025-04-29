@@ -1,15 +1,14 @@
-{
-    "version": "1.1",
-    "download_url": "https://github.com/darl1xvfx/resource-sayrex-ff/raw/main/releases/SayrexFF_v1.1.exe",
-    "changelog": "Added new aimbot features and fixed bugs."
-},
-{
-    "version": "1.2",
-    "download_url": "https://github.com/darl1xvfx/resource-sayrex-ff/raw/main/releases/SayrexFF_v1.1.exe",
-    "changelog": "Added new aimbot features and fixed bugs."
-},
-{
-    "version": "1.3",
-    "download_url": "https://github.com/darl1xvfx/resource-sayrex-ff/raw/main/releases/SayrexFF_v1.3.exe",
-    "changelog": "Added new aimbot features and fixed bugs."
-}
+[
+    {
+        "version": "1.1",
+        "download_url": "https://github.com/darl1xvfx/resource-sayrex-ff/raw/main/releases/SayrexFF_v1.1.exe",
+    },
+    {
+        "version": "1.2",
+        "download_url": "https://github.com/darl1xvfx/resource-sayrex-ff/raw/main/releases/SayrexFF_v1.1.exe",
+    },
+    {
+        "version": "1.3",
+        "download_url": "https://github.com/darl1xvfx/resource-sayrex-ff/raw/main/releases/SayrexFF_v1.3.exe",
+    }
+]
